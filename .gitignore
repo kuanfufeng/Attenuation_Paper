@@ -1,0 +1,25 @@
+# general things to ignore
+attenuation_PNW/Annual_BBQ_comb.csv
+attenuation_PNW/BBQ_MAP_STA_vs30.png
+attenuation_PNW/GEOgener_histo.png
+attenuation_PNW/GEOgenermap_histo.png
+attenuation_PNW/GEOunit_histo.png
+attenuation_PNW/GEOunitmap_histo.png
+attenuation_PNW/MAP_MtHood.png
+attenuation_PNW/MAP_MtRainier.png
+attenuation_PNW/MAP_MtStHelens.png
+attenuation_PNW/MAP_Q_Hood.png
+attenuation_PNW/MAP_Q_StHelens.png
+attenuation_PNW/MAP_Q_comb.png
+attenuation_PNW/MAP_Q_rainier.png
+attenuation_PNW/MAP_STA_2005-2022.png
+attenuation_PNW/MAP_STAall.png
+attenuation_PNW/merged_geo.csv
+attenuation_SouthCA/CA_Q.csv
+attenuation_SouthCA/GEOgener_histo.png
+attenuation_SouthCA/GEOgenermap_histo.png
+attenuation_SouthCA/GEOunit_histo.png
+attenuation_SouthCA/GEOunitmap_histo.png
+attenuation_SouthCA/MAP_STA_southCA.png
+attenuation_SouthCA/MAP_STA_southCA_pass.png
+attenuation_SouthCA/merged_geo.csv
