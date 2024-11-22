@@ -1,4 +1,4 @@
-#generalthingstoignore
+#general things to ignore
 attenuation_PNW/Annual_BBQ_comb.csv
 attenuation_PNW/BBQ_MAP_STA_vs30.png
 attenuation_PNW/GEOgener_histo.png
@@ -27,3 +27,4 @@ vs30_model/PNW/geotiff_lon_lat_vs30_formatted_Model-1alt.csv
 vs30_model/PNW/geotiff_lon_lat_vs30_formatted_Model-2alt.csv
 vs30_model/SouthCA/geotiff_lon_lat_vs30_formatted_Model-1alt.csv
 vs30_model/SouthCA/geotiff_lon_lat_vs30_formatted_Model-2alt.csv
+vs30_model/output_grid.nc
